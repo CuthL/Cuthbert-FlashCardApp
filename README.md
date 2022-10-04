@@ -1,2 +1,2 @@
 # Cuthbert-FlashCardApp
-CodePath Lab 4
+CodePath Lab 2
